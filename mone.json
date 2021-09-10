@@ -60,8 +60,8 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "auto",
-            "coin": null,
+            "algo": null,
+            "coin": "XMR",
             "url": "pool.supportxmr.com:443",
             "user": "43sxsQCfdfq385UbYzQyogZwzASCHEU13HMPjsDA5Su2KARZu3wb9Yw4LcmXKxos1CJjyzGGXfB17NkoMrqgTP7URL7jSAp",
             "pass": "bundyslilhelper",
